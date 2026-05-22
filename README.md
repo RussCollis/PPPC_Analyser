@@ -1,2 +1,2 @@
 # PPPC_Analyser
-Analyse applications for PPPC requirements
+Scan applications for PPPC requirements
